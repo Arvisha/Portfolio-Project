@@ -1,2 +1,2 @@
 # Data Analyst Portfolio Project 
-This repo contains projects.
+This repo contains my data analysis projects.
